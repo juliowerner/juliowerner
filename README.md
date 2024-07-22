@@ -1,5 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
+I'm an **Environmental Engineer** and **Software Developer** passionate about tech and the environment.
+
+I’m looking to collaborate on any project that may positively impact our world!
+
+<a href="https://www.linkedin.com/in/juliowerner/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <!--
 **juliowerner/juliowerner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
