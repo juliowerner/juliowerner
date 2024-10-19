@@ -1,21 +1,13 @@
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I'm an **Environmental Engineer** and **Software Developer** passionate about tech and the environment.
+### Who am I?
+- 🎓Phd in Environmental Engineering @UFPR🇧🇷 @KIT🇩🇪
+- 💻 Software Developer
+- 👯 I’m looking to collaborate on any project that may positively impact our world!
+- ⚡ Curiosity: I am not the sci-fi writer Jules Verner b
+  
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliowerner/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://juliowerner.github.io/)
 
-I’m looking to collaborate on any project that may positively impact our world!
 
-<a href="https://www.linkedin.com/in/juliowerner/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<!--
-**juliowerner/juliowerner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://www.codewars.com/users/juliowerner/badges/large)
