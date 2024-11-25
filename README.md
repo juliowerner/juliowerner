@@ -6,8 +6,10 @@
 - 👯 I’m looking to collaborate on any project that may positively impact our world!
 - ⚡ Curiosity: I am not the sci-fi writer Jules Verner
   
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliowerner/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://juliowerner.github.io/)
-
-
 ![image](https://www.codewars.com/users/juliowerner/badges/large)
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliowerner/)
+
+[![My Page](https://juliowerner.pages.dev/badge.png)](https://juliowerner.pages.dev/)
+
+
