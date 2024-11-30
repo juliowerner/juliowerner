@@ -12,4 +12,8 @@
 
 [![My Page](https://juliowerner.pages.dev/badge.png)](https://juliowerner.pages.dev/)
 
-
+### My setup
+- [Arch Linux](https://archlinux.org/)
+- [Hyprland](https://hyprland.org/)
+- [Vscode](https://code.visualstudio.com/)
+- [Neovim](https://neovim.io/)
