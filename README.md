@@ -1,10 +1,10 @@
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ### Who am I?
-- 🎓Phd in Environmental Engineering @UFPR🇧🇷 @KIT🇩🇪
+- 🌱 I am constantly striving to make a positive impact on the world.
+- 🎓 Phd in Environmental Engineering @UFPR🇧🇷 @KIT🇩🇪
 - 💻 Software Developer
-- 👯 I’m looking to collaborate on any project that may positively impact our world!
-- ⚡ Curiosity: I am not the sci-fi writer Jules Verner
+- ⚡ Curiosity: My name's inspired by Jules Verne, the sci-fi writer. No relation, though.
   
 ![image](https://www.codewars.com/users/juliowerner/badges/large)
 
