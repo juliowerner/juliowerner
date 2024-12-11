@@ -14,6 +14,7 @@
 
 ### My setup
 - [Arch Linux](https://archlinux.org/)
-- [Hyprland](https://hyprland.org/)
+- [Wayland](https://wayland.freedesktop.org) + [Hyprland](https://hyprland.org/)
 - [Vscode](https://code.visualstudio.com/)
 - [Neovim](https://neovim.io/)
+- [Zed](https://zed.dev/) (Testing)
